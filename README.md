@@ -44,5 +44,6 @@ Do you want to use this program again? (y/n): n
 This script is open-source and free to use.
 
 ## 👨‍💻 Author
-Developed by [Supermuctec]
+Developed by 
 ```
+Supermuctec
